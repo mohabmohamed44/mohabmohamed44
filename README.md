@@ -14,7 +14,7 @@
 </div>
 
 ###
-
+<h1>Tech Stacks:-</h1>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -102,7 +102,7 @@
 </div>
 
 ###
-
+<h1>Social Media Links:-</h1>
 <div align="left">
   <a href="https://www.linkedin.com/in/mohab-mahmoud-402060224/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
