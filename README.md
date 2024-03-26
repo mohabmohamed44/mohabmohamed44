@@ -153,14 +153,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Mohab Mohammed">
-    ![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=hex31ns142bssm7pihezg9jq1&width={width})
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Mohab%20Mohammed&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
