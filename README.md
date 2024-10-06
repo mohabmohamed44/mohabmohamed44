@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Mohab Mohammed Mahmoud<br>A passionate Full Stack developer from Egypt</h2>
+<h2 align="center">Hi 👋, I'm Mohab Mohammed Mahmoud<br>A passionate Full Stack developer from Egypt</h2>
 
 ###
 
